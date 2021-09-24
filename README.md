@@ -1,4 +1,4 @@
-<h2> Hi, I'm Meyshad! <img src="https://habrastorage.org/webt/gx/fh/jm/gxfhjmrabq3yapyhgwscweeb9bu.gif" width="20"></h2>
+<h2> Hi, I'm Meyshad! </h2>
 
 
 <img align='right' src="https://habrastorage.org/webt/tn/jp/ep/tnjpepft7cptughbj_1bmrublio.gif" width="430">
