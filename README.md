@@ -28,13 +28,13 @@ I am an optimistic, curious and well-focused developer. :sparkles: <br>
   <img src="https://img.shields.io/badge/Youtube-eb3223?style=flat&logo=youtube&labelColor=eb3223" alt="YouTube">
 </a>
 
-<a href="https://twitter.com/meyshad1" target="_blank">
+<a href="https://twitter.com/meysam_kh94" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 
-<a href="https://t.me/Meyshad" target="_blank">
+<!-- <a href="https://t.me/Meyshad" target="_blank">
   <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram">
-</a>
+</a> -->
 
 
 <!---
