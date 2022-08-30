@@ -16,25 +16,9 @@ I am an optimistic, curious and well-focused developer. :sparkles: <br>
 
 ## Social networking
 
-<a href="https://github.com/meyshad" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/meyshad" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn">
-</a>
-
-<a href="https://twitter.com/meyshad1" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-
-<!-- <a href="https://t.me/Meyshad" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram">
-</a> 
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Youtube-eb3223?style=flat&logo=youtube&labelColor=eb3223" alt="YouTube">
-</a> -->
+[![Gmail Badge](https://img.shields.io/badge/-meysam.khanbabaie@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:meysam.khanbabaie@gmail.com)](mailto:meysam.khanbabaie@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Meysam%20Khanbabaie-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/meyshad/)](https://linkedin.com/in/meyshad/) 
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/+989014515051)](https://wa.me/+989014515051)
 
 
 <!---
