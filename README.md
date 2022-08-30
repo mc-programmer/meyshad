@@ -18,7 +18,7 @@ I am an optimistic, curious and well-focused developer. :sparkles: <br>
 
 [![Gmail Badge](https://img.shields.io/badge/-meysam.khanbabaie@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:meysam.khanbabaie@gmail.com)](mailto:meysam.khanbabaie@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Meysam%20Khanbabaie-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/meyshad/)](https://linkedin.com/in/meyshad/) 
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/+989014515051)](https://wa.me/+989014515051)
+<!-- [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/989014515051)](https://wa.me/+989014515051) -->
 
 
 <!---
